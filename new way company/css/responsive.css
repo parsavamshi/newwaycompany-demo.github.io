@@ -1,0 +1,592 @@
+@media screen and (min-width: 980px) and (max-width: 1199px){
+	.container{
+		width: 960px;
+	}
+	h3{
+		font-size: 30px;
+	}
+	nav ul{
+		font-size: 15px;
+		padding-top: 15px;
+	}
+	nav ul li{
+		margin-right: 50px;
+	}
+	.item1 h2{
+		font-size: 38px;
+	}
+	.item1 h4{
+		font-size: 33px;
+	}
+	.item1 p{
+		font-size: 14px;
+		margin: 19px;
+	}
+	.arow{
+		width: 55px;
+		height: 55px;
+	}
+	.arow i{
+		font-size: 29px;
+		margin: 14px;
+	}
+	.item2 h2{
+		font-size: 32px;
+		margin-top: 40px;
+	}
+	.item2 p{
+		font-size: 22px;
+	}
+	.pag2{
+		margin-top: 35px;
+	}
+	.tabl1{
+		padding: 40px 20px;
+		width: 240px;
+	}
+	.tabl1 i{
+		padding-bottom: 30px;
+		font-size: 47px;
+	}
+	.tabl1 h5{
+		margin-bottom: 20px;
+		font-size: 20px;
+	}
+	.tabl1 p{
+		font-size: 13px;
+		margin-bottom: 20px;
+	}
+	.tabl1 a{
+		margin-bottom: 45px;
+		font-size: 17px;
+	}
+	.main{
+		margin-top: 50px;
+	}
+	.main h4{
+		font-size: 32px;
+	}
+	.small{
+		font-size: 22px;
+		margin-bottom: 30px;
+	}
+	.line{
+		margin-bottom: 35px;
+	}
+	.banner2{
+		padding-bottom: 50px;
+	}
+	.banner2 img{
+		padding-bottom: 35px;
+		width: 100%;
+	}
+	.banner2 button{
+		width: 120px;
+		font-size: 13px;
+		height: 35px;
+	}
+	.submenu{
+		padding: 50px 0;
+	}
+	.grid1{
+		width: 480px;
+	} 
+	.info1{
+		width: 70%;
+	}
+	.grid1 h5{
+		font-size: 20px;
+	}
+	.info1 p{
+		font-size: 11px;
+	}
+	.grid2{
+		padding: 40px 0 30px;
+	}
+	.grid2 h4{
+		font-size: 32px;
+	}
+	.grid2 p{
+		font-size: 22px;
+	}
+	.subfot{
+		width: 480px;
+		padding-bottom:40px; 
+	}
+	h6{
+		font-size: 17px;
+	}
+	.mailbox p{
+		font-size: 13px;
+	}
+	form{
+		margin-top:25px; 
+	}
+	input{
+		width: 315px;
+		height: 35px;
+	}
+	form button{
+		width: 80px;
+		height: 35px;
+		font-size: 17px;
+	}
+	.twits{
+		padding: 18px;
+	}
+	.twits p{
+		font-size: 12px;
+		line-height: 20px;
+	}
+	.twits i{
+		font-size: 70px;
+	}
+	.foot{
+		width: 320px;
+		margin: 60px 0;
+	}
+	.foot img{
+		width: 60px;
+	}
+	.foot b{
+		font-size: 16px;
+	}
+	.foot p{
+		font-size: 13px;
+	}
+	.end p {
+		padding: 35px 0;
+		font-size: 13px;
+	}
+}
+		/*--------MAX-WIDTH:1199PX ENDS-------*/
+
+		/*--------MAX-WIDTH:979PX starts--------*/
+
+@media screen and (min-width:768px) and (max-width: 979px){
+	.container{
+		width: 750px;
+	}
+	h3{
+		font-size: 26px;
+	}
+	nav ul{
+		font-size: 13px;
+		padding-top: 15px;
+	}
+	nav ul li{
+		margin-right: 35px;
+	}
+	.item1 h2{
+		font-size: 36px;
+	}
+	.item1 h2::after{
+		width: 36%;
+	}
+	.item1 h4{
+		font-size: 31px;
+	}
+	.item1 h4::after{
+		width: 43%;
+	}
+	.item1 p{
+		font-size: 14px;
+		margin: 17px;
+	}
+	.arow{
+		width: 53px;
+		height: 53px;
+	}
+	.arow  i{
+		font-size: 28px;
+	}
+	.item2 h2 {
+		font-size: 30px;
+		margin-top: 38px;
+	}
+	.item2 p{
+		font-size: 20px;
+	}
+	.pag2{
+		margin-top: 30px;
+	}
+	.tabl1{
+		padding: 35px 15px;
+		width: 187px;
+	}
+	.tabl1 i{
+		padding-bottom: 25px;
+		font-size: 45px;
+	}
+	.tabl1 h5{
+		margin-bottom: 15px;
+		font-size: 19px;
+	}
+	.tabl1 p{
+		font-size: 11px;
+		margin-bottom: 18px;
+	}
+	.tabl1 a{
+		margin-bottom: 30px;
+		font-size: 15px;
+		padding: 5px 25px;
+
+	}
+	.main{
+		margin-top: 45px;
+	}
+	.main h4{
+		font-size: 30px;
+	}
+	.small{
+		font-size: 20px;
+		margin-bottom: 25px;
+	}
+	.line{
+		margin-bottom: 30px;
+	}
+	.banner2{
+		padding-bottom: 30px;
+	}
+	.banner2 img{
+		padding-bottom: 30px;
+		width: 100%;
+	}
+	.banner2 button{
+		width: 110px;
+		height: 30px;
+		font-size: 12px;
+	}
+	.submenu{
+		padding:40px 0;
+	}
+	.grid1{
+		width: 375px;
+	}
+	.info1 p{
+		font-size: 11px;
+		line-height: 15px;
+	}
+	.grid1 h5{
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+	.pic1{
+		width: 80px;
+		height: 85px;
+		margin-right: 12px;
+	}
+	.grid2{
+		padding:35px 0 25px;
+	}
+	.grid2 h4{
+		font-size: 30px;
+	}
+	.grid2 p{
+		font-size: 20px;
+	}
+	.subfot {
+		width: 375px;
+		padding-bottom: 35px;
+	}
+	h6{
+		font-size: 15px;
+	}
+	.mailbox p{
+		font-size: 11px;
+	}
+	.mailbox i{
+		font-size: 35px;
+	}
+	input{
+		width: 225px;
+		height: 30px;
+	}
+	form button{
+		width: 75px;
+		height: 30px;
+		font-size: 13px;
+	}
+	.twits p{
+		font-size: 11px;
+		line-height: 15px;
+	}
+	.twits{
+		padding: 12px;
+	} 
+	.foot {
+		width: 250px;
+		margin: 50px 0;
+	}
+	.foot img{
+		width: 50px;
+	} 
+	.foot b{
+		font-size: 14px;
+	}
+	.foot p{
+		font-size: 11px;
+	}
+	.end p{
+		font-size: 11px;
+		padding: 30px 0;
+	}
+}
+			/*------max-widht:979px ends---------*/
+			/*---------max-widht:762px  and min-width:320px starts--------*/
+
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+	.container{
+		width: 100%;			
+	}
+	h3{
+		font-size: 21px;
+		
+	}
+	nav{
+		display: none;
+		background: #ff7600cf;
+		overflow: hidden;
+		width: 100%;	
+		position: absolute;
+		top: 60px;
+		left: 0px;
+		z-index: 200;
+	}
+	nav ul{
+		padding: 0;
+		width: 100%;
+		text-align: center;
+		font-size: 13px;
+		background: #637f83;
+	}
+	nav ul li{
+		display: block;
+		border: 1px solid #000;
+		margin: 0;
+	}
+	nav ul li a{
+		color: #fff;
+		display: block;
+		padding: 10px 0;
+	}
+	nav ul li a:hover{
+		color: #000;
+	}
+	 .fa-angle-down:before{
+		display: none;
+	}
+	nav ul li:hover{
+		opacity: 2.5;
+		background: #ff7600cf;
+		color: #000;
+	}
+	.humbuger{
+		display: block;
+		position: absolute;
+		top:25px;
+		right:15px;
+		left: auto;
+		cursor: pointer;
+	}
+	.humbuger span{
+		display: block;
+		width: 35px;
+		height: 3px;
+		background: #637f83;
+		margin-bottom:  2px; 
+	}
+	.item1 h2{
+		font-size: 33px;
+	}
+	.item1 h2::after{
+		width: 33%;
+	}
+	.item1 h4{
+		font-size: 29px;
+	}
+	.item1 h4::after{
+		width: 40%;
+	}
+	.item1 p{
+		font-size: 14px;
+		margin:15px;
+	}
+	.arow{
+		width: 50px;
+		height: 50px;
+	}
+	.arow i{
+		font-size: 26px;
+		margin: 12px;
+	}
+	.pag1{
+		height: 320px;
+	}
+	.item2 h2{
+		margin-top: 35px;
+		font-size: 28px;
+	}
+	.item2 p{
+		font-size: 18px;
+	}
+	.tabl1{
+		width: 100%;
+		border-bottom: 1px solid #d5d5d5;
+		padding: 20px 0;
+	}
+	.tabl1:nth-child(4n){
+		padding: 20px 0;
+	}
+	.tabl1 i{
+		font-size: 50px;
+		padding-bottom: 20px;
+	}
+	.tabl1 h5{
+		margin-bottom: 12px;
+		font-size: 22px;
+	}
+	.tabl1 p{
+		font-size: 16px;
+		margin-bottom: 15px;
+		line-height: 28px;
+	}
+	.tabl1 a{
+		margin-top: 10px;	
+		margin-bottom: 20px;
+		font-size: 12px
+	}
+	.main h4{
+		font-size: 28px;
+	}
+	.small{
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	.line{
+		margin-bottom: 20px;
+	}
+	.banner2{
+		padding-bottom: 30px;
+	}
+	.banner2 img{
+		padding-bottom: 20px;
+		width: 99%;
+	}
+	.banner2 button{
+		font-size: 12px;
+		width: 100px;
+		height: 35px;
+	}
+	.submenu{
+		padding:30px 0;
+	}
+	.grid1{
+		width: 100%;
+		margin-left: 15px;
+	} 
+	.pic1{
+		margin-right: 12px;
+	}
+	.grid2{
+		padding: 30px 0 20px;
+	}
+	.grid2 h4{
+		font-size: 28px;
+	}
+	.grid2 p{
+		font-size: 18px;
+	}
+	.subfot{
+		padding-bottom: 30px;
+		width: 100%;
+	}
+	.mailbox{
+		margin-left: 15px;
+	}
+
+	h6{
+		font-size: 14px;
+	}
+	form {
+		margin-top: 23px;
+	}
+	input{
+		width: 60%;
+	}
+	form button{
+		width: 100px;
+		font-size: 12px;
+	}
+	.twits{
+		padding: 20px;
+		margin: 0 15px;
+	} 
+	.twits i {
+		font-size: 40px;
+	}
+	.foot{
+		width: 235px;
+		margin: 50px 0 50px 15px;
+	}
+	.foot img{
+		width: 45px;
+	}
+	.foot p{
+		font-size: 10px;
+	}
+	.end p{
+		font-size: 10px;
+		padding:25px;
+	}
+	.foot b{
+		font-size: 12px;
+	}
+}
+
+	/*------max-width:762px ends------*/
+
+
+
+	/*------max-width:420px starts------*/
+	@media screen and (min-width:320px ) and (max-width: 425px){
+
+		@media(max-width: 425px){
+	.container{
+		width: 100%;
+	}
+	.item1 h2 {
+		font-size: 25px;
+	}
+	.item1 p{
+		font-size: 12px;
+	}
+	.arow i{
+		font-size: 24px;
+	}
+	.arow {
+		width: 45px;
+		height: 45px;
+	}
+	.humbuger span {
+	width: 30px;
+	}
+	.grid1{
+		margin-left: 8px;
+	}
+	.info1{
+		width: 98%;
+	} 
+	.end p {
+	padding: 15px;
+	}
+	}
+	/*@media screen and (min-width: 320px) and (max-width: 610px){*/
+
+	/*	@media(max-width: 610px){
+			.container{
+			width: 100%;
+
+	}*/
+	
